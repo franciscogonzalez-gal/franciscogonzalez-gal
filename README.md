@@ -4,32 +4,31 @@ Bienvenido a mi perfil académico de GitHub.
 
 Este espacio reúne proyectos desarrollados durante mi formación en ciencia de datos, business intelligence, estadística, machine learning, econometría, minería de datos y analítica aplicada.
 
-Mi objetivo con estos repositorios no es mostrar ejercicios aislados, sino documentar una ruta de aprendizaje técnico orientada a resolver problemas con datos, método y criterio.
+Mi objetivo es documentar una ruta de aprendizaje técnico orientada a resolver problemas con datos, método y criterio.
 
 ## Sobre mí
 
 Soy Ingeniero Industrial con más de 15 años de experiencia en calidad, excelencia operacional, Lean Six Sigma y analítica aplicada a procesos industriales, logísticos y de supply chain.
 
-Mi trayectoria profesional combina experiencia práctica en planta, sistemas de gestión de calidad, control de procesos, mejora continua y toma de decisiones basada en evidencia.
+Mi trayectoria combina experiencia práctica en planta, sistemas de gestión de calidad, control de procesos, mejora continua y toma de decisiones basada en evidencia.
 
 Actualmente complemento esa experiencia con capacidades en:
 
 - Python
 - R
-- Power BI
 - SQL
+- Power BI
 - Business Intelligence
 - Machine Learning
 - Estadística aplicada
 - Automatización de reportes
 - Visualización de datos
-- Analítica aplicada a operaciones
 
 Mi interés principal está en conectar datos, procesos e indicadores con mejores decisiones operativas.
 
-## Qué encontrarás en este perfil
+## Qué encontrarás aquí
 
-En este GitHub alojo principalmente proyectos académicos relacionados con:
+En este perfil alojo principalmente proyectos académicos relacionados con:
 
 - Ciencia de datos con Python y R
 - Business Intelligence y dashboards
@@ -56,13 +55,11 @@ Procuro que mis proyectos sigan una lógica práctica:
 5. Evaluar resultados con criterio.
 6. Comunicar hallazgos de forma clara.
 
-Para mí, el valor de la analítica no está únicamente en construir modelos o dashboards.
+El valor de la analítica no está únicamente en construir modelos o dashboards.
 
 El valor aparece cuando la información ayuda a interpretar mejor un proceso, reducir incertidumbre y tomar mejores decisiones.
 
 ## Áreas de interés
-
-Mis principales áreas de interés técnico son:
 
 - Data Analytics aplicado a operaciones
 - Quality Analytics
@@ -76,8 +73,6 @@ Mis principales áreas de interés técnico son:
 - Toma de decisiones basada en datos
 
 ## Herramientas y tecnologías
-
-Algunas de las herramientas utilizadas en estos proyectos incluyen:
 
 - Python
 - R
@@ -96,6 +91,23 @@ Algunas de las herramientas utilizadas en estos proyectos incluyen:
 - DVC
 - Flask
 
+## Proyectos destacados
+
+- [investigacion_data_science](https://github.com/franciscogonzalez-gal/investigacion_data_science)  
+  Pipeline end-to-end para analizar reseñas de clientes con scraping, clasificación semántica, BigQuery y Power BI.
+
+- [bi_at_work](https://github.com/franciscogonzalez-gal/bi_at_work)  
+  Proyecto de Business Intelligence sobre catálogo de Netflix, con ETL, modelo estrella, PostgreSQL y Power BI.
+
+- [statistical_learning_1_pry2](https://github.com/franciscogonzalez-gal/statistical_learning_1_pry2)  
+  Proyecto de clasificación de riesgo crediticio con modelos supervisados y evaluación de desempeño.
+
+- [product_development](https://github.com/franciscogonzalez-gal/product_development)  
+  Pipeline MLOps para predicción de ventas, con DVC, MLflow, Flask y entrenamiento reproducible.
+
+- [data_mining_galileo](https://github.com/franciscogonzalez-gal/data_mining_galileo)  
+  Proyecto de minería de datos aplicado a clasificación médica usando modelos de machine learning en R.
+
 ## Criterio detrás del portafolio
 
 Este perfil documenta mi transición y fortalecimiento técnico desde una base sólida en calidad, mejora continua y operaciones hacia un perfil más analítico y orientado a datos.
@@ -106,30 +118,12 @@ Es usar la tecnología para ampliar la capacidad de análisis, mejorar la trazab
 
 La tecnología amplifica el criterio; no reemplaza la responsabilidad profesional.
 
-## Repositorios destacados
-
-Algunos de los proyectos incluidos en este perfil abordan temas como:
-
-- Análisis de reseñas de clientes con LLM, BigQuery y Power BI.
-- Business Intelligence aplicado a catálogos de contenido.
-- Clasificación de riesgo crediticio.
-- Modelos predictivos en Python y R.
-- Análisis de reservas hoteleras.
-- Forecasting de ventas.
-- Reconocimiento de texto e imágenes.
-- Minería de datos aplicada a clasificación médica.
-- Proyectos de MLOps con seguimiento de experimentos.
-
 ## Contacto
-
-Puedes conocer más sobre mi trabajo profesional en:
 
 - LinkedIn: https://www.linkedin.com/in/franciscogonzalez
 - Website: https://qualityanalytics.net
 - Portfolio profesional: https://qualityanalytics.net/portfolio/
 
 ---
-
-Este perfil es una muestra de aprendizaje aplicado.
 
 Menos ruido. Mejor criterio. Más decisiones basadas en evidencia.
